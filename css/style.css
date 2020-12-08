@@ -25,6 +25,7 @@ p {
   box-sizing: border-box;
   border-radius: 10px;
   padding: 20px 20px 0px 20px;
+  cursor:context-menu;
   position: relative;
   box-shadow: none;
   transform: scale(1);
